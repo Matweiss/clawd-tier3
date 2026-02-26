@@ -1,0 +1,14 @@
+{
+  "name": "clawd-tier3",
+  "version": "1.0.0",
+  "description": "Tier 3: Smart notifications, error handling, logging, cost tracking, content pipeline",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "node-fetch": "^2.7.0"
+  }
+}
